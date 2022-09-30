@@ -1,0 +1,32 @@
+:root {
+    --bg-color: #FEFADC;
+    --text-color: #1D1E18;
+    --link-color: #7A5980;
+    --hover-color: #FFA8A9;
+    --bonus-color: #8DA7BE;
+    font-family: 'Calibri','Candara','Segoe','Segoe UI','Optima','Arial',sans-serif;
+    font-size: 18px;
+}
+#wrapper {
+    width: 80%;
+    margin: auto;
+    min-width: 960px;
+    border: 1px solid black;
+}
+#leftcolumn {
+    float: left;
+    width: 150px;
+    min-height: 708px;
+    border: 1px solid black;
+}
+#rightcolumn {
+    margin-left: 155px;
+    border: 1px solid black;
+    min-height: 708px;
+}
+#header {
+    font-size: 150%;
+    padding: 10px 10px 10px 155px;
+    border: 1px solid black;
+    height: 60px;
+}
