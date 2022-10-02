@@ -34,6 +34,7 @@ a:hover {
     margin-left: 155px;
     border: 1px solid var(--border-color);
     min-height: 708px;
+    padding: 1%;
 }
 #header {
     font-size: 200%;
@@ -42,5 +43,6 @@ a:hover {
     font-weight: bold;
     height: 50px;
     color: var(--bg-color);
+    text-align: center;
     background-image: url('../images/cat-mac.png');
 }
