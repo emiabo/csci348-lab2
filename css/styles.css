@@ -36,6 +36,9 @@ a:hover {
     min-height: 708px;
     padding: 1%;
 }
+#rightcolumn h2 {
+    text-align: center;
+}
 #header {
     font-size: 200%;
     padding: 10px 10px 10px 10px;
@@ -45,4 +48,11 @@ a:hover {
     color: var(--bg-color);
     text-align: center;
     background-image: url('../images/cat-mac.png');
+}
+table img {
+    width: 250px;
+}
+table {
+    max-width: 750px;
+    margin: 0 auto;
 }
